@@ -907,7 +907,7 @@ section.teacher-slider-section .icon-left, .icon-right {
         font-size: 35px;
     }
     .hovers .icon{
-        padding: 15px;
+        padding: 0px;
     }
     .hovers .icon i{
         font-size: 22px;
