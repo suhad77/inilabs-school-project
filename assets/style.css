@@ -906,8 +906,11 @@ section.teacher-slider-section .icon-left, .icon-right {
     .teacher-heading h2{
         font-size: 35px;
     }
+    .hovers .icon{
+        padding: 15px;
+    }
     .hovers .icon i{
-        font-size: 33px;
+        font-size: 22px;
     }
     
     .about-contant-section .about-right img{
