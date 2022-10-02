@@ -730,6 +730,7 @@ section.teacher-slider-section .icon-left, .icon-right {
         font-size: 40px;
     }
     
+
     .hovers .icon i{
         padding-left: 15px;
         font-size: 41px;
@@ -740,6 +741,9 @@ section.teacher-slider-section .icon-left, .icon-right {
     }
 }
 @media (max-width: 995px){
+    .hero-content .right{
+        width: 100%;
+    }
     .education{
         margin-bottom: 100px;
     }
